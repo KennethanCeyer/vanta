@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# MacOS files
+.DS_Store
+
+# Jetbrains
+.idea
+
+# Testing Resources
+tests/resource
