@@ -1,0 +1,19 @@
+vanta
+----
+
+> Notice: This project is still working in progress (WIP)
+
+vanta is most simple and powerful 2D graphics library written in C++
+The purpose of our project is as follows
+
+- easy to use (most important thing)
+  - support i18n documentations
+  - support sdk for most famous languages (java, kotlin, .net, python, javascript, golang)
+- high performance
+  - support SIMD operations
+  - use GPU acceleration
+  - develop all implementation as C++ and handle all in one project
+  - in few case, we will optimize code to write assembly code
+- compatibility (this is not related our goal, but we agree this is important thing)
+  - support X86, X64 architecture as base
+  - support most famous (Window 7+, macOS 4.1.1+, CentOS 6.x, RHEL 8, Ubuntu 16.04 LTS, Alpine 2.7)
