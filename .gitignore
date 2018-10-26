@@ -39,3 +39,6 @@
 
 # Testing Resources
 tests/resource
+
+# CMakeFiles
+cmake-build-debug

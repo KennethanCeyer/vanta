@@ -1,2 +1,0 @@
-/Users/kennethan/Desktop/vanta/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/kennethan/Desktop/vanta/cmake-build-debug/CMakeFiles/edit_cache.dir
